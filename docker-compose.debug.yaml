@@ -1,0 +1,3 @@
+services:
+  ? adp-test-dan2
+  : command: npm run start:debug

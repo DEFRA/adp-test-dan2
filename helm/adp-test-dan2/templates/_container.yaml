@@ -1,0 +1,2 @@
+{{- define "adp-test-dan2.container" -}}
+{{- end -}}
